@@ -1,2 +1,2 @@
 const textOne = 'Hello everyone';
-const name = 'Amha';
+const name = 'Amha Desta';
