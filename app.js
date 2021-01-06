@@ -6,3 +6,4 @@ const textTwo = 'Some other thext';
 
 console.log(textOne);
 console.log(newText);
+console.log('My last log');
