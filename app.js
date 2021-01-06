@@ -1,0 +1,1 @@
+const textOne = 'Hello everyone';
